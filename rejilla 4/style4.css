@@ -1,0 +1,22 @@
+.green
+{
+    background-color: rgb(44, 224, 44);
+    margin: 0%;
+    height: 100px;
+}
+
+.blue
+{
+    background-color: aqua;
+    margin: 0%;
+    height: 450px;
+    border: 5px white solid;
+}
+
+.cloud
+{
+    background-color: aquamarine;
+    margin: 0%;
+    height: 100px;
+    border: 5px white solid; 
+}

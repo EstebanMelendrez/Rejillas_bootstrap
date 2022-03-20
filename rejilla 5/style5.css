@@ -1,0 +1,37 @@
+.orange
+{
+    background-color: orange;
+    height: 50px;
+    margin:0%;
+
+}
+
+.green
+{
+    background-color: greenyellow;
+    height: 230px;
+    margin: 0%;
+}
+
+.yellow
+{
+    background-color: yellow;
+    height: 230px;
+    margin: 0%;
+}
+
+.lima
+{
+    background-color: rgb(63, 233, 40);
+    height: 150px;
+    margin:0%;
+}
+
+.naranja
+{
+    background-color: orangered;
+    height: 100px;
+    margin: 0%;
+    border: 5px white solid;
+}
+

@@ -1,0 +1,23 @@
+.head
+{
+    background-color: orangered;
+    margin: 0%;
+    height: 50px;
+}
+
+.cuerpo
+{
+    background-color: orange;
+    border: 5px white solid;
+    margin: 0%;
+    height: 150px;
+
+}
+
+.foot
+{
+    background-color: rgb(238, 255, 0);
+    border: 5px white solid;
+    margin: 0%;
+    height: 50px;
+}
