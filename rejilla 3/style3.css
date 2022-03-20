@@ -1,0 +1,42 @@
+.green
+{
+    background-color: rgb(97, 211, 97);
+    margin: 0%;
+    height: 80px;
+}
+
+.red
+{
+    background-color: red;
+    margin: 0%;
+    height: 70px;
+}
+
+.pink
+{
+    background-color: palevioletred;
+    margin: 0%;
+    height: 50px;
+}
+.blue
+{
+    background-color: blueviolet;
+    border: 5px rgb(132, 142, 231) solid;
+    margin: 0%;
+    height: 90px;
+    
+}
+
+.grey
+{
+    background-color: skyblue;
+    border: 5px blue solid;
+    margin: 0%;
+    
+    height: 50px;
+}
+
+.container-fluid
+{
+    height: 100%;
+}
