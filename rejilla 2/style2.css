@@ -1,0 +1,48 @@
+.green
+{
+    background-color: rgb(89, 226, 89);
+    margin: 0%;
+    height: 50px;
+    
+}
+
+.silver
+{
+    background-color: rgb(120, 230, 238);
+    margin: 0%;
+    height: 50px;
+    
+}
+
+.blue
+{
+    background-color: blue;
+    margin: 0%;
+}
+
+.orange
+{
+    background-color: rgb(245, 166, 49);
+    margin: 0%;
+    border: 5px whitesmoke solid;
+    height: 90px;
+}
+
+.yellow
+{
+    background-color: rgb(228, 241, 37);
+    height: 85px;
+    margin: 0%;
+    border: 5px whitesmoke solid;
+}
+.container-fluid
+{
+    margin: 0%;
+    height: 100%;
+}
+
+footer
+{
+    background-color: lawngreen;
+    height: 50px;
+}
